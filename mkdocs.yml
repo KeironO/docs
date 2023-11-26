@@ -32,8 +32,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - minify:
-      minify_html: true
   - glightbox
 
 extra_css:
