@@ -1,34 +1,38 @@
 site_name: Keiron's Documentation Portal
 site_url: https://docs.keiron.xyz
 repo_url: https://github.com/KeironO/docs
+copyright: Copyright &copy; 2023 Keiron O'Shea
 theme:
   name: 'material'
+  palette:
+    primary: black
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - search.highlight
+    - search.share
   font:
     text: 'Inter'
-  palette:
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
 
 
 markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
-  - footnotes
-  - mdx_include:
-      base_path: docs
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - attr_list
-  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.snippets:
+      check_paths: true
+  - def_list
+  - pymdownx.tasklist:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
 
 plugins:
   - search
