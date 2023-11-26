@@ -24,7 +24,7 @@ Grab the USB boot code with:
 
 ```bash
 git clone --depth=1 https://github.com/raspberrypi/usbboot
-````
+```
 
 Move into the directory with:
 
