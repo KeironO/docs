@@ -6,7 +6,7 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 
 |Where|Smybol|Description|
 |--|--|--|
-|In Use?|S|Deprecated, but in use. Usually for unsupported hardware that I need to replace. Usually seperated off the main VLAN.|
+|In Use?|S|Sorta deprecated, but in use. Usually for unsupported hardware that I need to replace. Seperated off the main VLAN.|
 |In Use?|B|Borked|
 
 ## Computers and Mobile Devices
@@ -21,6 +21,7 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 |phat|Drobo|Office|||8TB|S|Office|
 |smol|Terrastation|Office|||4TB|S|Office|
 |steamdeck|Steam Deck|||SteamOS|256GB + 512GB microSD|Y|Wherever|
+||Lenovo|||||N|Office
 
 ## Laptops
 
@@ -47,3 +48,7 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 |Name|Year Made|Working?|Location|
 |--|--|--|--|
 Sun Microsystems SunRay 100|1999|Y|Office|
+
+## Changelog
+
+- 2023/11/26: Started filling this up. 
