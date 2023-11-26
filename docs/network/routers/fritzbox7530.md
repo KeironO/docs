@@ -1,5 +1,13 @@
 # FRITZ!Box 7530
 
+Temporarily using this router as the cats decided to eat the ASDL modem I had when they were kittens. I don't intend on using this for too long, but here's some hints.
+
+## The WiFi is weak
+
+My current accomodation was built in 2018 and is both quite small and has thin non-brick walls. However in spite of this, it was impossible to get WiFi access upstairs in the bedroom.
+
+To resolve the WiFi issues, I disabled the WiFi on the box and bought a Ubiquiti Networks UAP-AC-LITE. I don't think there's a magic fix for this.
+
 ## How to flush the DNS
 
 I recently got into a bit of a shit situation with my DNS/DHCP setup, and had to reset DNS. After much trial and tribulation, I found out that the router was the issue.
