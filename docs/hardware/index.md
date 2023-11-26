@@ -34,9 +34,15 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 
 ## Home Automation
 
-|Device Name|Model|Location|Type|Easy Name|In Use?|
-|-|-|-|-|-|-|
-
+|Type|Model|Location|In Use?|
+|-|-|-|-|
+|Zigbee Controller|Sonoff CC2531|Living Room (in Pi)|Y|
+|Temperature Sensor|Sonoff SNZB-02|Living Room (in Kallax box)|Y|
+|Temperature Sensor|Sonoff SNZB-02|Enterence (ontop of Thermostat)|Y|
+|Temperature Sensor|Sonoff SNZB-02|Office (on Windowsill)|Y|
+|Camera|TP-Link Tapo C200|Living Room (near TV)|Y|
+|Camera|TP-Link Tapo C200|Dining Room (ontop Piano)|Y|
+|Camera|TP-Link Tapo C200|Cat's room|Y|
 
 ## Network Devices
 
