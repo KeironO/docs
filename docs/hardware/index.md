@@ -1,5 +1,7 @@
 # Device List
 
+Here you will find a breakdown of my computing devices. There's probably gaps here, but I will try to keep it as up to date as possible.
+
 ## Computers and Mobile Devices
 
 |Hostname|Device Name|CPU|RAM|OS|Disk|In Use?|Location|
