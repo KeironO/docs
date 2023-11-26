@@ -1,0 +1,26 @@
+site_name: Keiron's Documentation Portal
+site_url: https://docs.keiron.xyz
+repo_url: https://github.com/KeironO/docs
+theme:
+  name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+extra_css:
+  - stylesheets/extra.css
