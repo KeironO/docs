@@ -23,6 +23,8 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 |logr|Old Terrastation|Unknown|Unknown|Unknown|2TB|S|Office|
 |steamdeck|Steam Deck|AMD APU|16GB|SteamOS|256GB + 512GB microSD|Y|Wherever|
 |shitter|Fujitsu Primergy M130 S2|AMD Opteron 3280|16GB|AlmaLinux|~4TB|N|Office|
+|proxmox-0|HP DL320e Gen8 v2|Intel Xeon E3-1220v3|32GB|Proxmox|500GB RAID|Y|Office|
+|proxmox-1|HP DL320e Gen8 v2|Intel Xeon E3-1220v3|32GB|Proxmox|500GB RAID|Y|Office|
 
 ## Laptops
 
@@ -40,9 +42,12 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 |Temperature Sensor|Sonoff SNZB-02|Living Room (in Kallax box)|Y|
 |Temperature Sensor|Sonoff SNZB-02|Enterence (ontop of Thermostat)|Y|
 |Temperature Sensor|Sonoff SNZB-02|Office (on Windowsill)|Y|
+|Sensor|Aqara Indoor Air Quality Monitor|Master Bedroom|Y|
 |Camera|TP-Link Tapo C200|Living Room (near TV)|Y|
 |Camera|TP-Link Tapo C200|Dining Room (ontop Piano)|Y|
 |Camera|TP-Link Tapo C200|Cat's room|Y|
+|Plug|Tuya 20A Zigbee Smart Plug|Bedroom (Purifier)|Y|
+|Plug|Tuya 20A Zigbee Smart Plug|Bedroom (Lamp)|Y|
 
 ## Network Devices
 
@@ -52,6 +57,8 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 |Access Point|Ubiquiti Networks UAP-AC-LITE|Living Room|Y|
 |Switch||Living Room|Y|
 |Switch||Office|Y|
+|Switch|D-Link DGS-10008MP|Office|Y|
+|Switch|D-Link DGS-10008MP|Office|Y|
 |Access Point|Ubiquiti Networks UAP-AC-LITE|Office|Y|
 |Router|Ubiquiti EdgeRouter X|Office|N|
 |Modem|BT OpenReach VDSL Modem|Office|N
