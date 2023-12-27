@@ -23,8 +23,8 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 |logr|Old Terrastation|Unknown|Unknown|Unknown|2TB|S|Office|
 |steamdeck|Steam Deck|AMD APU|16GB|SteamOS|256GB + 512GB microSD|Y|Wherever|
 |shitter|Fujitsu Primergy M130 S2|AMD Opteron 3280|16GB|AlmaLinux|~4TB|N|Office|
-|proxmox-0|HP DL320e Gen8 v2|Intel Xeon E3-1220v3|32GB|Proxmox|500GB RAID|Y|Office|
-|proxmox-1|HP DL320e Gen8 v2|Intel Xeon E3-1220v3|32GB|Proxmox|500GB RAID|Y|Office|
+|pve1|HP DL320e Gen8 v2|Intel Xeon E3-1220v3|32GB|Proxmox|500GB RAID|Y|Office|
+|pve2|HP DL320e Gen8 v2|Intel Xeon E3-1220v3|32GB|Proxmox|500GB RAID|Y|Office|
 
 ## Laptops
 
@@ -53,15 +53,17 @@ Here you will find a breakdown of my computing devices. There's probably gaps he
 
 |Type|Model|Location|In Use?|
 |--|--|--|--|
-|Router|Fritz!Box 7530|Living Room|Y|
-|Access Point|Ubiquiti Networks UAP-AC-LITE|Living Room|Y|
+|Router|Sophos GS210 w/pfSense|Utility|Y|
+|Router|Fritz!Box 7530|Utility|Y|
+|Access Point|Ubiquiti Networks UAP-AC-LITE|Utility|Y|
+|Access Point|Ubiquiti Networks UAP-AC-PRO|Office|Y|
 |Switch||Living Room|Y|
 |Switch||Office|Y|
+|Switch|D-Link DGS-10008MP|Utility|Y|
 |Switch|D-Link DGS-10008MP|Office|Y|
-|Switch|D-Link DGS-10008MP|Office|Y|
-|Access Point|Ubiquiti Networks UAP-AC-LITE|Office|Y|
+|Access Point|Ubiquiti Networks UAP-AC-LITE|Office|N|
 |Router|Ubiquiti EdgeRouter X|Office|N|
-|Modem|BT OpenReach VDSL Modem|Office|N
+|Modem|BT OpenReach VDSL Modem|Utility|N|
 
 
 ## Retro Hardware
@@ -72,4 +74,5 @@ Sun Microsystems SunRay 100|1999|Y|Office|
 
 ## Changelog
 
+- 2023/12/27: Filled up post move stuff
 - 2023/11/26: Started filling this up. 
